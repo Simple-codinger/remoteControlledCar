@@ -23,5 +23,5 @@ pip install -r requirements.txt
 
 To start the application, run the following command:
 ````
-python3 ./start.py
+python3 ./src/start.py
 ````   
